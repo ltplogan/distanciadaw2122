@@ -2,7 +2,7 @@
 /**
  * @author Laurent Toledo
  * @version 3.3.1
- * @access private
+ * @access public
  */
 
  /**
